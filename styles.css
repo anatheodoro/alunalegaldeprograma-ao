@@ -3,7 +3,6 @@ body{
     background-image: linear-gradient(180deg,rgb(3, 133, 240), rgb(25, 153, 212), white);
     font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
 }
 header{
     background-color: aliceblue;
@@ -13,4 +12,10 @@ header{
 }
 footer{
     text-align: center;
+}
+.imagem{ 
+    text-align: center;
+}
+.botao{
+    border-radius: 30px;
 }
